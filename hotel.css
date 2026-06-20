@@ -1,0 +1,74 @@
+.head{
+    background-color: rgb(4, 4, 136);
+    color: white;
+    text-align: center;
+    padding: 10px ;
+    margin:0;
+}
+
+.main{
+    background-color:whitesmoke;
+
+}
+
+.text{
+    text-align: center;
+}
+
+.navee{
+    text-align: center;
+    font-weight:300;
+    padding: 5px 5px ;
+    
+}
+
+a{
+    text-decoration: none;
+    color: rgb(3, 16, 92);
+    margin-left: 20px;font-weight: bold;
+}
+.button{
+    background-color: white;
+    padding: 10px 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.wel{
+    color: rgb(15, 142, 34);
+    font-weight: bold;
+    
+}
+
+.note{
+    text-align: center;
+}
+
+.back{
+    background-color: white;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+}
+
+.front-view{
+    width:300px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.rate{
+    text-align: center;
+}
+
+.direct{
+    text-align: center;
+
+}
+
+.foot{
+    text-align: center;
+
+}
+
